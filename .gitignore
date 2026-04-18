@@ -1,0 +1,32 @@
+# Binaries
+parser.exe
+*.exe
+# Flex / Bison generated files
+lex.yy.c
+parser.tab.c
+parser.tab.h
+y.tab.c
+y.tab.h
+# Object files
+*.o
+*.obj
+# Build directories (if you use any)
+build/
+dist/
+# Smart output (if you don't want it in Git)
+smart_output/
+# Logs
+*.log
+# OS-specific junk
+Thumbs.db
+.DS_Store
+desktop.ini
+# Editor / IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
