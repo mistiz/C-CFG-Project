@@ -1,0 +1,7 @@
+Original code:
+int main() {
+    return 5;
+}
+
+Result:
+Valid program

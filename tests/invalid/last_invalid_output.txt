@@ -1,0 +1,8 @@
+Original code:
+
+int main( {
+    return;
+}
+
+Result:
+Error: syntax error
